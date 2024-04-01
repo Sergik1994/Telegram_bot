@@ -1,0 +1,4 @@
+INFO:aiogram.dispatcher:Start polling
+INFO:aiogram.dispatcher:Run polling for bot @Username_uniq_bot id=6890809775 - 'Name_bot'
+INFO:root:Сережа 248802511: Привет
+INFO:aiogram.event:Update id=411012110 is handled. Duration 227 ms by bot id=6890809775
